@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Benjamin F Jones, @benjaminfjones
-- 👀 I’m interested in mathematics, formal methods, programming languages, and running
-- 🌱 I’m currently learning about sampling SAT/SMT solutions using unsat cores
+- 👀 I’m interested in mathematics, formal methods, programming languages, running, and cycling
+- 🌱 I’m currently learning to formalize proofs in Lean 4
 - 💞️ I’m looking to collaborate on looking for the one who is looking
 - 📫 How to reach me benjaminfjones@ GMAIL, bfj@ AMAZON, benjaminfjones@ GITHUB
 
